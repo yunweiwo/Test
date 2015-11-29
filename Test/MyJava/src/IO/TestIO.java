@@ -6,6 +6,7 @@ public class TestIO {
 	{
 		System.out.println("test");
 		String a = "aasdfef";
+		System.out.println(a);
 	}
 
 }
