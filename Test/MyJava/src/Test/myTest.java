@@ -1,7 +1,7 @@
 package Test;
 
 /**
- * ÄÚ²¿ÀàÊÇ·ñÄÜ¼Ì³Ð
+ * å†…éƒ¨ç±»ç»§æ‰¿é—®é¢˜
  * @author Administrator
  *
  */
@@ -18,7 +18,7 @@ class WithInner
    
 public class myTest extends WithInner.Inner 
 {  
-    // ! InheritInner() {} // Won¡¯t compile  
+    // ! InheritInner() {} // Wonâ€™t compile  
     myTest(WithInner wi) 
     {  
         wi.super();  
